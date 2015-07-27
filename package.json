@@ -4,7 +4,7 @@
   "main": "src/angular-mixpanel.js",
   "repository": {
     "type": "git",
-    "url": "http://github.com/kuhnza/angular-mixpanel.git"
+    "url": "http://github.com/startapplabs/angular-mixpanel.git"
   },
   "license": "MIT",
   "dependencies": {},
